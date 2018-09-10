@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="5" total="6" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8807" started-at="2018-09-09T18:40:17Z" finished-at="2018-09-09T18:40:26Z">
+    <groups>
+      <group name="Room5Sanity">
+        <method signature="Room5SanityTest.cookieContentTest()[pri:0, instance:Room5SanityTest@1324409e]" name="cookieContentTest" class="Room5SanityTest"/>
+      </group> <!-- Room5Sanity -->
+    </groups>
+    <test name="Test" duration-ms="8807" started-at="2018-09-09T18:40:17Z" finished-at="2018-09-09T18:40:26Z">
+      <class name="Room5SanityTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Room5SanityTest@1324409e]" name="setup" is-config="true" duration-ms="8502" started-at="2018-09-10T00:10:17Z" finished-at="2018-09-10T00:10:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="cookieContentTest()[pri:0, instance:Room5SanityTest@1324409e]" name="cookieContentTest" duration-ms="128" started-at="2018-09-10T00:10:25Z" description="Verify if the Cookie content is visible to the user once the user opens the website" finished-at="2018-09-10T00:10:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookieContentTest -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:Room5SanityTest@1324409e]" name="quitDriver" is-config="true" duration-ms="92" started-at="2018-09-10T00:10:26Z" finished-at="2018-09-10T00:10:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- Room5SanityTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,47 @@
+2018-09-09 23:23:37 INFO  Room5HomePage:78 - Clicking Search Bar
+2018-09-09 23:23:37 INFO  Room5HomePage:85 - Setting Search location
+2018-09-09 23:24:52 INFO  Room5HomePage:78 - Clicking Search Bar
+2018-09-09 23:24:52 INFO  Room5HomePage:92 - Navigating to Contact Button
+2018-09-09 23:29:51 INFO  Room5HomePage:78 - Clicking Search Bar
+2018-09-09 23:29:51 INFO  Room5HomePage:92 - Navigating to Contact Button
+2018-09-09 23:32:29 INFO  Room5HomePage:78 - Clicking Search Bar
+2018-09-09 23:32:29 INFO  Room5HomePage:92 - Navigating to Contact Button
+2018-09-09 23:34:13 INFO  Room5HomePage:78 - Clicking Search Bar
+2018-09-09 23:34:13 INFO  Room5HomePage:85 - Setting Search location
+2018-09-09 23:36:01 INFO  Room5HomePage:78 - Clicking Search Bar
+2018-09-09 23:36:01 INFO  Room5HomePage:92 - Navigating to Contact Button
+2018-09-09 23:37:16 INFO  Room5HomePage:78 - Clicking Search Bar
+2018-09-09 23:37:16 INFO  Room5HomePage:92 - Navigating to Contact Button
+2018-09-09 23:38:45 INFO  Room5HomePage:78 - Clicking Search Bar
+2018-09-09 23:38:45 INFO  Room5HomePage:92 - Navigating to Contact Button
+2018-09-09 23:40:30 INFO  Room5HomePage:78 - Clicking Search Bar
+2018-09-09 23:40:30 INFO  Room5HomePage:85 - Setting Search location
+2018-09-09 23:40:40 INFO  Room5HomePage:92 - Navigating to Contact Button
+2018-09-09 23:54:01 INFO  Room5HomePage:78 - Clicking Search Bar
+2018-09-09 23:54:01 INFO  Room5HomePage:85 - Setting Search location
+2018-09-09 23:54:21 INFO  Room5HomePage:78 - Clicking Search Bar
+2018-09-09 23:54:21 INFO  Room5HomePage:85 - Setting Search location
+2018-09-09 23:56:36 INFO  Room5HomePage:101 - Navigating to Trivago Footer present at bottom of the home page
+2018-09-09 23:56:38 INFO  Room5ContactPage:57 - Entering Message on Contact page
+2018-09-09 23:56:39 INFO  Room5ContactPage:64 - Entering Name on Contact page
+2018-09-09 23:56:39 INFO  Room5ContactPage:71 - Entering Email Id on Contact page
+2018-09-09 23:56:44 INFO  Room5ContactPage:78 - Clicking on Check box present on Contact page
+2018-09-09 23:56:44 INFO  Room5ContactPage:85 - Submitting details on Contact page
+2018-09-09 23:56:58 INFO  Room5HomePage:101 - Navigating to Trivago Footer present at bottom of the home page
+2018-09-09 23:56:59 INFO  Room5ContactPage:57 - Entering Message on Contact page
+2018-09-09 23:57:00 INFO  Room5ContactPage:64 - Entering Name on Contact page
+2018-09-09 23:57:00 INFO  Room5ContactPage:71 - Entering Email Id on Contact page
+2018-09-09 23:57:05 INFO  Room5ContactPage:78 - Clicking on Check box present on Contact page
+2018-09-09 23:57:05 INFO  Room5ContactPage:85 - Submitting details on Contact page
+2018-09-10 00:01:06 INFO  Room5HomePage:92 - Navigating to Contact Button present at bottom of the home page
+2018-09-10 00:01:11 INFO  Room5HomePage:110 - Entering Email Id while subsribing to newsletter
+2018-09-10 00:01:11 INFO  Room5HomePage:117 - Clicking on Subscribe Button present at bottom of home page
+2018-09-10 00:01:28 INFO  Room5HomePage:92 - Navigating to Contact Button present at bottom of the home page
+2018-09-10 00:01:33 INFO  Room5HomePage:110 - Entering Email Id while subsribing to newsletter
+2018-09-10 00:01:33 INFO  Room5HomePage:117 - Clicking on Subscribe Button present at bottom of home page
+2018-09-10 00:03:36 INFO  Room5HomePage:124 - Clicking on Navigation Icon
+2018-09-10 00:03:37 INFO  Room5HomePage:131 - Clicking on Destination Button present at bottom of home page
+2018-09-10 00:03:53 INFO  Room5HomePage:124 - Clicking on Navigation Icon
+2018-09-10 00:03:53 INFO  Room5HomePage:131 - Clicking on Destination Button present at bottom of home page
+2018-09-10 00:10:08 INFO  Room5HomePage:141 - Verifying Cookie Content
+2018-09-10 00:10:25 INFO  Room5HomePage:141 - Verifying Cookie Content
